@@ -64,5 +64,5 @@ php -S localhost:8080
 ngrok http http://localhost:8080
 ```
 
-<img width="692" height="320" alt="image" src="https://github.com/user-attachments/assets/61a319ec-0dd8-43c4-bc90-95c797e13d4f" />
+<img width="1431" height="506" alt="image" src="https://github.com/user-attachments/assets/d59bc9d3-a766-408d-b39d-666ccb8613c7" />
 
